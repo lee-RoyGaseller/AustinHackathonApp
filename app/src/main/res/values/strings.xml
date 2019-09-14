@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SampleAndroidApp</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="find_flights">Find Flights</string>
+
+    <string-array name="from_airports_array">
+        <item>DFW</item>
+        <item>LAX</item>
+    </string-array>
+
+    <string-array name="to_airports_array">
+        <item>LAX</item>
+        <item>DFW</item>
+    </string-array>
+</resources>
